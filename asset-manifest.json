@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEK_ASSINGMENT_React_states_001/static/css/main.6f990597.css",
+    "main.js": "/GEEK_ASSINGMENT_React_states_001/static/js/main.c83bf18a.js",
+    "static/js/787.4bc33d2d.chunk.js": "/GEEK_ASSINGMENT_React_states_001/static/js/787.4bc33d2d.chunk.js",
+    "index.html": "/GEEK_ASSINGMENT_React_states_001/index.html",
+    "main.6f990597.css.map": "/GEEK_ASSINGMENT_React_states_001/static/css/main.6f990597.css.map",
+    "main.c83bf18a.js.map": "/GEEK_ASSINGMENT_React_states_001/static/js/main.c83bf18a.js.map",
+    "787.4bc33d2d.chunk.js.map": "/GEEK_ASSINGMENT_React_states_001/static/js/787.4bc33d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f990597.css",
+    "static/js/main.c83bf18a.js"
+  ]
+}
